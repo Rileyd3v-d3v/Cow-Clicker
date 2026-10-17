@@ -1,0 +1,14 @@
+{
+  "name": "Moo Clicker: Pasture Party",
+  "short_name": "Moo Clicker",
+  "description": "Tap a cartoon cow, earn moo points, and build your dream farm.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8ccf5a",
+  "theme_color": "#5e9e3e",
+  "icons": [
+    {"src":"cow-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
